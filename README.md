@@ -1,6 +1,7 @@
 # Neural Network from Scratch
 
 This project implements a simple feed-forward neural network with backpropagation from scratch using Python and NumPy.
+Follows this article: https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
 
 ## Structure
 
